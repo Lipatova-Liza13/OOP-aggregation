@@ -1,0 +1,22 @@
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.exe
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.deps.json
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.runtimeconfig.json
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.runtimeconfig.dev.json
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.dll
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.pdb
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.AssemblyInfoInputs.cache
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.AssemblyInfo.cs
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.dll
+C:\Users\Liza\source\repos\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.pdb
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.exe
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.deps.json
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.runtimeconfig.json
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.runtimeconfig.dev.json
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.dll
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\bin\Debug\netcoreapp3.0\Lagrkomp.pdb
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.csprojAssemblyReference.cache
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.AssemblyInfoInputs.cache
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.AssemblyInfo.cs
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.dll
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\Lagrkomp\Lagrkomp\obj\Debug\netcoreapp3.0\Lagrkomp.pdb
